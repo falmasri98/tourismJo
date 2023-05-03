@@ -6,7 +6,7 @@ const Header = () => {
             <nav className="navbar navbar-expand-lg navbar-dark bg-dark p-3">
                 <div className="container-fluid">
                     <a className="navbar-brand" href="#">
-                        Navbar
+                        Jo Tourism
                     </a>
                     <button
                         className="navbar-toggler"
@@ -31,18 +31,18 @@ const Header = () => {
                                     Home
                                 </a>
                             </li>
-                            <li className="nav-item">
+                            {/* <li className="nav-item">
                                 <a className="nav-link mx-2" href="#">
                                     Products
                                 </a>
-                            </li>
-                            <li className="nav-item">
+                            </li> */}
+                            {/* <li className="nav-item">
                                 <a className="nav-link mx-2" href="#">
                                     Pricing
                                 </a>
-                            </li>
-                            <li className="nav-item dropdown">
-                                <a
+                            </li> */}
+                            {/* <li className="nav-item dropdown"> */}
+                                {/* <a
                                     className="nav-link mx-2 dropdown-toggle"
                                     href="#"
                                     id="navbarDropdownMenuLink"
@@ -51,35 +51,34 @@ const Header = () => {
                                     aria-expanded="false"
                                 >
                                     Company
-                                </a>
-                                <ul
+                                </a> */}
+                                {/* <ul
                                     className="dropdown-menu"
                                     aria-labelledby="navbarDropdownMenuLink"
-                                >
-                                    <li>
+                                > */}
+                                    {/* <li>
                                         <a className="dropdown-item" href="#">
                                             Blog
                                         </a>
-                                    </li>
-                                    <li>
+                                    </li> */}
+                                    {/* <li>
                                         <a className="dropdown-item" href="#">
                                             About Us
                                         </a>
-                                    </li>
-                                    <li>
+                                    </li> */}
+                                    {/* <li>
                                         <a className="dropdown-item" href="#">
                                             Contact us
-                                        </a>
-                                    </li>
-                                </ul>
-                            </li>
+                                        </a> */}
+                                    {/* </li> */}
+                                {/* </ul> */}
+                            {/* </li> */}
                         </ul>
                     </div>
                 </div>
             </nav>
 
 
-            {/* <h1 className="text-center">Mais</h1> */}
         </div>
     );
 };

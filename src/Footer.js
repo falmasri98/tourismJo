@@ -10,8 +10,8 @@ const Footer = () => {
                     className="text-center p-3"
                     style={{ backgroundColor: "rgba(0, 0, 0, 0.2)" }}
                 >
-                    © 2020 Copyright:
-                    <a className="text-white" href="">   JO </a>
+                    © 2023 Copyright
+                    {/* <a className="text-white" href="">   JO </a> */}
                 </div>
                 {/* Copyright */}
             </footer>

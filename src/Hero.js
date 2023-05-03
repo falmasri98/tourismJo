@@ -7,8 +7,8 @@ const Hero = () => {
             <>
                 <header>
                     <div className="container">
-                        <h1>-Jordan Tourism-</h1>
-                        <h3>You'll be amazed.</h3>
+                        <h1>Tourism in Jordan </h1>
+                        {/* <h3>You'll be amazed.</h3> */}
                     </div>
                     {/* /.container */}
                 </header>

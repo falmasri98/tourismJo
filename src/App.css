@@ -1,10 +1,10 @@
 .card {
   width: 190px;
-  height: 300px;
-  border-radius: 50px;
-  background: #e0e0e0;
-  box-shadow: 20px 20px 60px #bebebe,
-    -20px -20px 60px #ffffff;
+  height: 270px;
+  /* border-radius: 50px; */
+  background: #a14848;
+  box-shadow: 20px 20px 60px #ffacac,
+    -20px -20px 60px #e13b3b;
   display: inline-flex;
   justify-content: center;
   margin-top: 50px;
@@ -77,7 +77,7 @@ header {
 }
 
 header:before {
-  background: linear-gradient(rgba(209, 222, 132, 0.7), rgba(146, 196, 100, 0.7)), url("https://images.pexels.com/photos/13594175/pexels-photo-13594175.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+  background: linear-gradient(rgba(233, 101, 101, 0.7), rgba(255, 40, 40, 0.7));
   background-color: #ccc;
   background-attachment: fixed;
   background-position: center center;
@@ -153,7 +153,7 @@ section p.lead-in:first-letter {
 
 /* ! read more button */
 button {
-  --color: #000000;
+  --color: #818181;
   font-family: inherit;
   /* display: inline-block; */
   width: 6em;
@@ -166,7 +166,7 @@ button {
   font-size: 17px;
   z-index: 1;
   color: var(--color);
-  border: 2px solid #beca66;
+  border: 2px solid #ca6666;
   border-radius: 6px;
   position: relative;
   margin: 0 2.8rem;
