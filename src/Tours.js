@@ -36,14 +36,14 @@ const TourInJordan = [
         price: 10
 
     },
-    {
-        id: 5,
-        name: "Petra",
-        info: "one of Seven wonders of the world",
-        img: "https://images.pexels.com/photos/1631665/pexels-photo-1631665.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-        price: 10
+    // {
+    //     id: 5,
+    //     name: "Petra",
+    //     info: "one of Seven wonders of the world",
+    //     img: "https://images.pexels.com/photos/1631665/pexels-photo-1631665.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    //     price: 10
 
-    },
+    // },
 
 
 ]

@@ -11,7 +11,10 @@
   /* flex-direction: row; */
   align-items: center;
   justify-content: center;
-  margin: 1rem;
+  margin-left: 7%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  /* margin: 1rem; */
   }
   
   .card img {
